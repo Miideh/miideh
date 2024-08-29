@@ -1,4 +1,4 @@
-👋 Hi, I’m Ayomide Adesanya (miideh)  
+👋 Hi, I’m Ayomide Adesanya
 🌱  I'm a Data Analyst with a passion for data visualization, machine learning, AI, and data-driven solutions.  
 👀 I love exploring new technologies and applying them to solve real-world problems.  
 🤝 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, MySQL or Google sheet  
