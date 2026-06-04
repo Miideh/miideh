@@ -1,8 +1,21 @@
-👋 Hi, I’m Ayomide Adesanya
-🌱  I'm a Data Analyst with a passion for data visualization, machine learning, AI, and data-driven solutions.  
-👀 I love exploring new technologies and applying them to solve real-world problems.  
-🤝 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, MySQL or Google sheet  
-🌱 On this GitHub, you'll find a selection of my projects and resources that demonstrate my expertise and enthusiasm for data analysis. Let's turn data into actionable insights together!  
-📫 You can reach out to me via LinkedIn (www.linkedin.com/in/adesanya-ayomide)  
-💬 Email : adesanyaayomide286@gmail.com
-👩‍💻 Meduim : https://adesanyaayomide.medium.com/
+# Ayomide Adesanya
+**Edge AI & Silicon Engineer** · Lagos, Nigeria  
+
+`Edge AI / TinyML` `Signal Processing` `Network Engineering` `Python` `NDPR Compliance`
+
+---
+
+Cloud AI assumes a perfect world. I build for the real one — resilient ML infrastructure that functions when networks fail, power drops, or the cloud is completely unreachable. My work bridges the full stack: Python signal extraction, NDPR-compliant edge processing, and semiconductor physics to map ML models onto ultra-low-power silicon.
+
+---
+
+### Current project: Project Sentinel
+An Edge AI telemetric routing engine that adapts enterprise "Dying Gasp" protocols for mobile SoCs. Detects physical device tampering via RF anomaly detection + TinyML, then compresses and transmits a sub-60-byte SOS payload over USSD — bypassing HTTP entirely — before complete hardware failure.
+
+---
+
+**Technical focus:** TinyML & quantized model deployment · RF signal processing (RSRP, SNR, FIR/IIR) · Low-layer networking (OSI L1–L3, USSD/SMS) · VLSI & PMIC architecture · Privacy-first edge systems
+
+📎  [LinkedIn](https://linkedin.com/in/adesanya-ayomide) 
+    [Medium](https://adesanyaayomide.medium.com) 
+    [Email](adesanyaayomide286@gmail.com)
