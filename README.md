@@ -9,7 +9,7 @@ Cloud AI assumes a perfect world. I build for the real one — resilient ML infr
 
 ---
 
-### Current project: Project Sentinel
+### Current project: SNTL
 An Edge AI telemetric routing engine that adapts enterprise "Dying Gasp" protocols for mobile SoCs. Detects physical device tampering via RF anomaly detection + TinyML, then compresses and transmits a sub-60-byte SOS payload over USSD — bypassing HTTP entirely — before complete hardware failure.
 
 ---
@@ -17,5 +17,5 @@ An Edge AI telemetric routing engine that adapts enterprise "Dying Gasp" protoco
 **Technical focus:** TinyML & quantized model deployment · RF signal processing (RSRP, SNR, FIR/IIR) · Low-layer networking (OSI L1–L3, USSD/SMS) · VLSI & PMIC architecture · Privacy-first edge systems
 
 📎  [LinkedIn](https://linkedin.com/in/adesanya-ayomide) 
-    [Medium](https://adesanyaayomide.medium.com) 
+    [Medium](https://adesanyaayomide.medium.com)
     [Email](adesanyaayomide286@gmail.com)
